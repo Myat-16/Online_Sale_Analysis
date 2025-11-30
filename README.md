@@ -1,9 +1,9 @@
 # Project Name: Online Sale Analysis
 ## Data Source: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
 ### Key Business Impacts
-1. Tracking total and monthly sales enables inventory optimization, reducing stockouts by 25% and overstock waste by 30% through demand forecasting.
-2. Analyzing daily sales patterns helps schedule promotions and staffing, boosting peak-day revenue by 20% via targeted flash sales.
-3. Understanding monthly orders by category prioritizes top sellers for 60% inventory allocation.
+1. Tracking total and monthly sales enables inventory optimization, reducing stockouts and overstock waste through demand forecasting.
+2. Analyzing daily sales patterns helps schedule promotions and staffing, boosting peak-day revenue via targeted flash sales.
+3. Understanding monthly orders by category prioritizes top sellers inventory allocation.
 4. Identifying total revenue by product category guides marketing spend to high-margin categories.
 5. Examining total revenue by region directs logistics expansion to top markets, reducing shipping costs through regional warehousing.
 6. Analyzing payment methods by region optimizes checkout flows, increasing conversion rates via region-specific payment preferences.
