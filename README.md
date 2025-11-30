@@ -14,5 +14,5 @@
 #### Approaches Details
 1. utilized the public Kaggle dataset to explore Total sales, Daily sales, Monthly Sale, Total Orders, Monthly Orders, Total Sales by monthly categories, Monthly sales by product category, Total revenue by product categories, Total revenue by region, Total revenue of product categories, Total revenue by payment methods,Total revenue by payment method by region, Popular product category, Popular product categories by region
 2. Columns that I used for this analysis are Transaction ID, Date, Product Name,Units Sold,Unit Price,Total Revenue, Region,Payment Method, Year, Month, Day
-3. Cleaned and processed millions of rows in Python
+3. Cleaned and processed millions of rows in Python, handling missing values, standardizing formats, and ensuring consistency for accurate analysis.
 
