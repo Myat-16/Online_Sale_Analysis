@@ -1,6 +1,6 @@
 # Project Name: Online Sale Analysis
 ### Data Source: https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data
-### Key Business Impacts
+## Key Business Impacts
 1. Tracking total and monthly sales enables inventory optimization, reducing stockouts and overstock waste through demand forecasting.
 2. Analyzing daily sales patterns helps schedule promotions and staffing, boosting peak-day revenue via targeted flash sales.
 3. Understanding monthly orders by category prioritizes top sellers inventory allocation.
