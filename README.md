@@ -16,3 +16,18 @@
 2. Columns that I used for this analysis are Transaction ID, Date, Product Name,Units Sold,Unit Price,Total Revenue, Region,Payment Method, Year, Month, Day
 3. Cleaned and processed millions of rows in Python, handling missing values, standardizing formats, and ensuring consistency for accurate analysis.
 
+<img width="870" height="543" alt="image" src="https://github.com/user-attachments/assets/eb1a5d4b-eba7-47fe-9ea1-daed664215c3" />
+
+<img width="860" height="557" alt="image" src="https://github.com/user-attachments/assets/e3e9e73e-3449-48d0-b2f1-6451056350f1" />
+
+### Popular Product Category
+<img width="877" height="532" alt="image" src="https://github.com/user-attachments/assets/65b413d0-e7ba-45dd-bc57-bb4d1ecff884" />
+
+<img width="1007" height="698" alt="image" src="https://github.com/user-attachments/assets/31d200fb-f268-48c9-892c-0e879ec4c534" />
+
+
+<img width="795" height="558" alt="image" src="https://github.com/user-attachments/assets/007468cd-a345-46b9-b320-238d283db4bb" />
+
+
+
+
